@@ -1,0 +1,163 @@
+body{
+    margin:auto
+}
+                                /*---Search---*/
+#search{
+    margin-left: 1%;
+    height: 480px;
+    width: 98%;
+    background-color: red;
+    background-image: url(resturentbanner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#login{
+    margin-left:76%;
+
+}
+#login> a{
+    text-decoration: none;
+    color:white;
+    font-size:16px;
+    font-weight: bold;
+}
+#loginbox{
+    padding: 10px;
+    border: 1px solid white;
+    margin: 8%;
+    box-shadow: 0px 0px 4px white;
+}
+#logo{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 43%;
+    margin-top: 6%;
+}
+#logo> span{
+    font-size: 90px;
+    font-weight: bold;
+    color: red;
+    margin-left: 40px;
+    margin-top:18px;
+    position: absolute;
+}
+#heading{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-top:2%;
+}
+#dropdown{
+    height: 40px;
+    width: 70%;
+    margin-left: 18%;
+    margin-top:3%;
+}
+select{
+    height: 45px;
+    width: 30%;
+    font-size:18px;
+    color: gray
+}
+#resturents{
+    margin-left:5%;
+    width: 60%;
+    text-align: center;
+}
+                        /*---Quicksearch---*/
+#quicksearch{
+    height: 600px;
+    width: 85%;
+    background-color:white;
+    margin-left: 10%;
+    margin-top: 4%;
+
+}
+#quickHeading{
+    color:#192f60;
+    font-size:30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    display:block;
+}
+#quicksubHeading{
+    color:grey;
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    position: absolute;
+    line-height:-7%;
+}
+.titlecondtainer{
+    height:150px;
+    width: 30%;
+    box-shadow: 0px 0px 5px black;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 4%;
+}
+#maintileContainer{
+    margin-top: 8%;
+}
+
+.tileComponent1{
+    width:46%;
+   float: left;
+}
+.tileComponent2{
+    width: 46%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.tileComponent1 > img{
+    height: 150px;
+    width:100%;
+}
+.componentHeading{
+    color:rebeccapurple;
+    font-size: 25px;
+    font-weight:bold
+}
+.componentSubHeading{
+    color:gray;
+    font-size:15px;
+    line-height :20px;
+
+}
+/*--*/
+#footer{
+    height: 100px;
+    width: 100%;
+    background-color:black;
+}
+#content1{
+    height: 85px;
+    width: 38%;
+    margin-left:40px;
+}
+#content1> img{
+    height: 50px;
+    margin-top: 7%;
+}
+#content2{
+    margin-left: 43%;
+    margin-top: -4%;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#content3{
+    margin-left: 81%;
+    margin-top: -4%;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+}
+a{
+    text-decoration:none;
+}
